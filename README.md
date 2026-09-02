@@ -33,6 +33,6 @@ I am a passionate Full Stack Developer based in Poland, specializing in building
 
 ### 📫 Let's Connect!
 
-- **Email:** adekpp@gmail.com
+- **Email:** hello@adrianpietryga.com
 
 *(Feel free to reach out for B2B collaborations, networking, or just to talk about tech!)*
